@@ -13,7 +13,10 @@ public class Account {
     private String cardNumber;
     private String typeAccount;
     private String accountNumber;
+
+    private Double maintenanceFee;
+    private int movementLimit;
+
     private Double balance;
-    private int creditLimit;
 
 }
